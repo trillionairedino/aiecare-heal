@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Med Box AI</string>
+    <string name="notification_channel_name">Medication reminders</string>
+    <string name="notification_channel_description">Alerts you when it is time to take medication.</string>
+    <string name="notification_default_body">It is time to take this medication.</string>
+    <string name="empty_state_message">No medications scheduled yet. Tap the + button to add one.</string>
+    <string name="dialog_add_title">Schedule medication</string>
+    <string name="dialog_field_medication_name">Medication name</string>
+    <string name="dialog_field_dosage">Dosage</string>
+    <string name="dialog_field_instructions">Instructions</string>
+    <string name="dialog_field_time">Reminder time: %1$s</string>
+    <string name="dialog_field_enable_label">Enable daily reminders</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="card_next_dose">Next dose: %1$s</string>
+    <string name="card_daily_time">Scheduled daily at %1$s</string>
+</resources>
